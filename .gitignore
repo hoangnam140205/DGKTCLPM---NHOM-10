@@ -1,2 +1,6 @@
-[Bb]in/
-[Oo]bj/
+# Bỏ qua thư mục build của Backend (.NET)
+bin/
+obj/
+
+# Bỏ qua thư viện của Frontend (React/Node)
+node_modules/
